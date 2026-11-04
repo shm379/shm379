@@ -8,6 +8,7 @@ I'm Hussein, an AI product builder based in Muscat. I work on developer tools, A
 
 | Project | What it does |
 | --- | --- |
+| [OSS Momentum Radar](https://github.com/shm379/oss-momentum-radar) | Free, zero-dependency radar for active open-source projects, including smaller ones |
 | [Telegram MCP](https://github.com/shm379/telegram-mcp) | An open-source MCP server for Telegram integrations |
 | [WordPress backup/transfer](https://github.com/shm379/wp-jibres) | A system for WordPress and WooCommerce backup and transfer |
 | [Persian Gravity Forms](https://github.com/shm379/persian-gravity-forms) | Persian-language tools for Gravity Forms |
