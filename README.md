@@ -8,6 +8,7 @@ I'm Hussein, an AI product builder based in Muscat. I work on developer tools, A
 
 | Project | What it does |
 | --- | --- |
+| [Nabu Reach](https://github.com/NabuxAi/nabu-reach) | Free-core, self-hostable, consent-first WhatsApp campaign studio MVP (draft-only; no live messaging) |
 | [OSS Momentum Radar](https://github.com/shm379/oss-momentum-radar) | Free, zero-dependency radar for active open-source projects, including smaller ones |
 | [Telegram MCP](https://github.com/shm379/telegram-mcp) | An open-source MCP server for Telegram integrations |
 | [WordPress backup/transfer](https://github.com/shm379/wp-jibres) | A system for WordPress and WooCommerce backup and transfer |
